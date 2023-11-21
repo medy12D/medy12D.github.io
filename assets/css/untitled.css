@@ -6,3 +6,15 @@
 div {
 }
 
+@media (max-width: 350px) {
+  div {
+    width: auto;
+  }
+}
+
+@media (max-width: 350px) {
+  p {
+    width: 200PX;
+  }
+}
+
