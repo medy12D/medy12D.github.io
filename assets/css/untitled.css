@@ -1,4 +1,4 @@
-@media (min-width: 300px) {
+@media (max-width: 400px) {
   section {
   }
 }
@@ -12,9 +12,17 @@ div {
   }
 }
 
-@media (max-width: 350px) {
+@media (max-width: 400px) {
   p {
     width: 200PX;
+  }
+}
+
+@media (max-width: 400px) {
+  section {
+    height: 600PX;
+    margin-bottom: -356px;
+    padding-bottom: 160px;
   }
 }
 
