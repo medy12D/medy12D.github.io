@@ -1,28 +1,21 @@
-@media (max-width: 400px) {
-  section {
+@media (min-width: 400px) {
+  #s3 {
+    padding-top: 148px;
   }
 }
 
-div {
-}
-
-@media (max-width: 350px) {
-  div {
-    width: auto;
+@media (max-width: 500px) {
+  #HomeOnaLogo {
+    width: 0PX;
   }
 }
 
-@media (max-width: 400px) {
-  p {
-    width: 200PX;
-  }
-}
-
-@media (max-width: 400px) {
-  section {
-    height: 600PX;
-    margin-bottom: -356px;
-    padding-bottom: 160px;
+@media (max-width: 500px) {
+  #aboutUs {
+    width: 533PX;
+    height: 281.5px;
+    margin-left: -7px;
+    margin-right: -306px;
   }
 }
 
