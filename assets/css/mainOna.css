@@ -33,10 +33,6 @@ div {
   --bs-icon-size: 1rem;
 }
 
-.bs-icon-lg {
-  --bs-icon-size: 2rem;
-}
-
 .bs-icon-xl {
   --bs-icon-size: 2.5rem;
 }
